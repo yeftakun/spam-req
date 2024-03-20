@@ -1,0 +1,5 @@
+MESSAGE="your message (separate with %20 for space, for example: Hello%20World!)"
+BOT_TOKEN="your bot token"
+CHAT_ID="target chat id"
+
+Rename this file to .env
